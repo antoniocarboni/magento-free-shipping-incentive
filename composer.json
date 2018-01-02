@@ -1,0 +1,12 @@
+{
+    "name":        "antoniocarboni/magento-free-shipping-incentive",
+    "description": "magento-free-shipping-incentive",
+    "type":        "magento-module",
+    "license":     "MIT",
+    "authors": [
+        {
+            "name":  "Antonio Carbonari",
+            "email": "mail@antoniocarboni.com"
+        }
+    ]
+}
